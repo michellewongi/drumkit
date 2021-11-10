@@ -1,12 +1,38 @@
-# Drum Kit
+# Table of contents
 
-This drum kit website was a challenge from my Udemy course online where I had to make each button on the screem play different parts of a drum set depending on the button clicked. It is also made to be responsive with keyboard presses too.
+- [Overview](#overview)
+  - [Features](#features)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-# Technologies
+## Overview
 
-* HTML/CSS
-* Javascript
+### Features
 
-# Website
+Users should be able to:
 
-https://mw3981.github.io/drumkit/
+- Use keys on keyboard or click buttons for different drum sounds
+
+### Screenshot
+
+![](drumkit.png)
+
+### Links
+
+- Live Site URL: [https://mw3981.github.io/drumkit/]
+
+## My process
+
+### Built with
+
+- Semantic HTML5
+- CSS
+- JavaScript
+
+# Author
+
+- Michelle Wong [https://michellewong.me]
+
