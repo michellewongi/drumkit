@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://mw3981.github.io/drumkit/]
+- Live Site URL: [https://michellewongi.github.io/drumkit/]
 
 ## My process
 
